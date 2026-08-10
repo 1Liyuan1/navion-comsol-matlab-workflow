@@ -1,0 +1,8 @@
+[project]
+name = "magnetic-robot-control"
+version = "0.1.0"
+description = "Magnetic-field control core and JAKA Python SDK adapter"
+requires-python = ">=3.8"
+
+[tool.unittest]
+start-directory = "tests"
