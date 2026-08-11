@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.venv/
+venv/
+
+# MATLAB temp files
+*.asv
+*.mlx~
+
+# Visual Studio / IDE
+.vs/
+*.user
+*.suo
+
+# System files
+Thumbs.db
+.DS_Store
